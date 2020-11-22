@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FluentWPF/0.8.0": {
+        "runtime": {
+          "lib/netcoreapp3.0/FluentWPF.dll": {
+            "assemblyVersion": "0.8.0.6",
+            "fileVersion": "0.8.0.6"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentWPF/0.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yq/GjRtlNRjE5lLf99NWqJ+9kSeuhSrt55/Is1wgZwSL6s2oZWxfT1C6bnz7O+kzb/aAWEZD94X0MP5mW4H+qQ==",
+      "path": "fluentwpf/0.8.0",
+      "hashPath": "fluentwpf.0.8.0.nupkg.sha512"
+    }
+  }
+}

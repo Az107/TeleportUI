@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "paTAi4pd6mhtA1quDVBX/WkedfffI3oRfAzf9X1yRhLwRGC5t6JziW/mBwnFTHnqwpD/WmV3v0UhfT/IQ8EZ1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alber\\source\\repos\\Teleport.gui\\Teleport.gui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alber\\.nuget\\packages\\fluentwpf\\0.8.0\\fluentwpf.0.8.0.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
